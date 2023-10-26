@@ -9,6 +9,10 @@ body {
   margin: 0;
   font-family: Raleway, sans-serif;
   background: #fff;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
   text-underline-position: under;
 }
 
