@@ -1,7 +1,7 @@
 .header {
   padding: 92px 49px 92px 51px;
   display: grid;
-  grid-template-columns:repeat(3, 1fr); 
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .header__menu {
@@ -144,7 +144,7 @@
   list-style: none;
 }
 
-.lots__card-list-item {  
+.lots__card-list-item {
   min-height: 450px;
   flex-grow: 1;
   flex-basis: 430px;
@@ -181,11 +181,11 @@
   padding: 50px 40px;
 }
 
-.card__title {  
+.card__title {
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
-  line-height: 120%; 
+  line-height: 120%;
   text-decoration-line: underline;
   text-transform: uppercase;
 }
@@ -215,13 +215,13 @@
   column-gap: 25px;
 }
 
-.about__logo{
+.about__logo {
   grid-column-start: 1;
   background-color: #000;
   width: 240px;
   height: 240px;
   border-radius: 50%;
-  display: flex;  
+  display: flex;
   justify-content: center;
   align-items: center;
   justify-self: center;
@@ -254,7 +254,7 @@
 .footer {
   padding: 0 50px 90px;
   display: grid;
-  grid-template-columns:repeat(3, 1fr); 
+  grid-template-columns:repeat(3, 1fr);
 }
 
 .footer__menu {
