@@ -114,7 +114,7 @@
   background-color: transparent;
   border: 1px solid #fff;
   padding: 12px 32px;
-  color: #FFF;
+  color: #fff;
   text-align: center;
   font-family: Raleway;
   font-size: 22px;
@@ -154,7 +154,7 @@
   height: 100%;
   display: block;
   text-decoration: none;
-} 
+}
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
@@ -254,7 +254,7 @@
 .footer {
   padding: 0 50px 90px;
   display: grid;
-  grid-template-columns:repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .footer__menu {
